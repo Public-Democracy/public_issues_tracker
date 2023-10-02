@@ -1,16 +1,31 @@
-# Public Democracy Issues Tracker
-The purpose of this repo is to offer an issue tracker to the PD team or PD Tools user that are not part of PD's GitHub Organization.
+<p align="center">
+  <img
+    src="pd_logo.png"
+    align="center"
+    width="600"
+    alt="Generative Manim"
+    title="Generative Manim"
+  />
+  <h1 align="center">🕵️‍♀️ Issues Tracker</h1>
+</p>
 
-## How to report an issue or put a feature request
+The purpose of this repo is to offer an issue tracker to the PD team and to the PD Tools users.
+
+## How to report an issue or make a feature request
 1. Click on this [**LINK**](https://github.com/Public-Democracy/public_issues_tracker/issues) or go to the _**Issues**_ tab of this page
-3. Click on create 🟢 **New issue**
-4. Add a name and a description:
+2. Click on create 🟢 **New issue**
+3. Add a name and a description:
    - Try to be as specific and clear on the problem you are having or the feature are requesting. You can add images if necessary.
    - 💡**Note**: Stick to ***1 issue*** per feature requested or problem. This makes it a lot easier to track and solve/implement.
-5. On the Right Panel add labels and the project:
-   - **☁️ Wordcloud viz** for issues or requests related to the wordcloud app
-   - **🧠 Ai content writter** for issues or request related to the life style content writter
-   - There is only 1 option for projects: **PD - Custom Apps**.
+     
+4. On the Right Panel select the appropiate label and the project:
+   - **Labels:** 
+      - **☁️ Wordcloud viz** for issues or requests related to the **Word Cloud Generator**
+      - **🧠 Ai content writter** for issues or requests related to the **Life Style Content Writter**
+      - **🎥 Ai Summary** for issues or requests related to **Online Content Summarizer**
+   - **Projects:**
+      - Select **PD - Custom Apps**.
+        
 6. Add labels for the type of Issue or request:
    - 🔵 **enhancement** for feature requests or UI/UX improvements
    - 🔴 **bug** for bugs or errors you are encountering
